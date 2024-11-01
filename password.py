@@ -1,0 +1,1 @@
+#creating a simple Python script that allows the user to input a password (or an array of passwords). Use the cryptography library to encrypt the password(s) and then decrypt it, displaying both the encrypted and decrypted forms.
