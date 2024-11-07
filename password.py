@@ -1,6 +1,6 @@
 #creating a simple Python script that allows the user to input a password (or an array of passwords). Use the cryptography library to encrypt the password(s) and then decrypt it, displaying both the encrypted and decrypted forms.
 from cryptography.fernet import Fernet
-#Input password
+#input password
 print("A strong password is a combination of letters, numbers, and symbols that is at least 12 characters long.")
 user_password = input("Enter a strong password: ")
 
